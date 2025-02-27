@@ -3,12 +3,6 @@ body {
   font-family: 'Roboto';font-size: 22px;
 }
 
-
-img{
-  width: 200px;
-}
-
-
 ul {
     list-style-type: none;
     margin: 0;
@@ -36,3 +30,27 @@ ul {
   .active {
     background-color: #04AA6D;
   }
+  .container{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr  ;
+    
+ }
+ 
+ img{
+     width: 100px;
+ }
+ .top{
+     width:50%;
+     border: 2px solid rgb(74, 74, 158) ;
+     margin: 10px;
+     padding: 10px;
+ }
+ 
+ .middle{
+     width:50%;
+     border: 2px solid rgb(74, 74, 158) ;
+     margin: auto;
+     padding: 10px;
+ 
+ }

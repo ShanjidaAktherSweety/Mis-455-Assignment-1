@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+}
+img{
+    width: 100px;
+}
+.top{
+    width:50%;
+    border: 2px solid rgb(74, 74, 158) ;
+    margin: 10px;
+    padding: 10px;
+}
+
+.middle{
+    width:50%;
+    border: 2px solid rgb(74, 74, 158) ;
+    margin: auto;
+    padding: 10px;
+
+}
