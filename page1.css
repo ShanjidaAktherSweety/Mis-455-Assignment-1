@@ -1,3 +1,14 @@
+body {
+  font-family: 'Poppins';font-size: 22px;
+  font-family: 'Roboto';font-size: 22px;
+}
+
+
+img{
+  width: 200px;
+}
+
+
 ul {
     list-style-type: none;
     margin: 0;
